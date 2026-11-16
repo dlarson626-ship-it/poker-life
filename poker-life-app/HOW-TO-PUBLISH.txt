@@ -1,0 +1,14 @@
+POKER LIFE - put it online (free, about 2 minutes)
+
+1. Unzip this folder.
+2. Go to https://app.netlify.com/drop and drag the whole unzipped folder onto the page.
+   (A free Netlify account keeps the site permanently. Without one it expires.)
+3. Netlify gives you a web address. Open it on your phone.
+4. Install it:
+   iPhone (Safari): Share button, then Add to Home Screen.
+   Android (Chrome): menu, then Install app / Add to Home screen.
+   Computer (Chrome or Edge): the install icon in the address bar.
+5. After the first load it works offline.
+
+Moving progress between devices: Home > Export data on one device, Import data on the other.
+Updating later: drag the new folder onto the same Netlify site.
